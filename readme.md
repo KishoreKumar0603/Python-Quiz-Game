@@ -1,3 +1,3 @@
-<font color="grey">
 <h1>Welcome to My Python Quiz</h1>
-</font>
+
+<p>This Quiz is Contains 10 Basic Question About <tt>Python</tt> Programming Language </p>
