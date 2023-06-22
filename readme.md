@@ -1,3 +1,3 @@
-<h1>Welcome to My Python Quiz</h1>
+<h1>Welcome to This Repository</h1>
 
-<p>This Quiz is Contains 10 Basic Question About <tt>Python</tt> Programming Language </p>
+<p>This respository is fully updated with <tt>Python</tt> projects </p>
